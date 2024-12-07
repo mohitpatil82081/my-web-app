@@ -1,0 +1,1 @@
+It is my first demo project to understand a Java Web app project structure!
